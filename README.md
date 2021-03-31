@@ -59,9 +59,10 @@ pip3 install -r ./requirements.txt
 安装完成，配置完文件就可以愉快的运行了。
 
 ```
-python ./run.py
+python3 ./run.py
 ```
-
+运行图片：由于现在还是非选课阶段还不知道行不行</br>
+![avatar](photo-1.png)
 ## 问题
 为了让大家都可以看到，有任何问题请提 issue。
 
