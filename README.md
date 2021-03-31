@@ -5,14 +5,18 @@
 这是一个适用于杭州电子科技大学选课系统的选课脚本。该脚本使用 Python 编写，目前支持通识选修课模块的选课功能，体育课和普通理论课的选课功能正在计划中。
 
 ## 环境依赖
+服务器： Debian
 - Python 3
 - Git
 
 ## 安装
+git：sudo apt install git-all
+python3：sudo apt install python3-pip
+
 ```
 git clone https://github.com/jadelike-wine/HDU.git
 cd HDU
-pip install -r ./requirements.txt
+pip3 install -r ./requirements.txt
 ```
 
 ## 配置文件
