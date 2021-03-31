@@ -10,7 +10,7 @@
 
 ## 安装
 ```
-git clone https://github.com/Cyrus97/HDU.git
+git clone git@github.com:jadelike-wine/HDU.git
 cd HDU
 pip install -r ./requirements.txt
 ```
