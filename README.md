@@ -5,12 +5,12 @@
 这是一个适用于杭州电子科技大学选课系统的选课脚本。该脚本使用 Python 编写，目前支持通识选修课模块的选课功能，体育课和普通理论课的选课功能正在计划中。
 
 ## 环境依赖
-服务器： Debian
+服务器： Debian</br>
 - Python 3
 - Git
 
 ## 安装
-git：sudo apt install git-all
+git：sudo apt install git-all</br>
 python3：sudo apt install python3-pip
 
 ```
